@@ -1,0 +1,1 @@
+The tool allows the generation component for CMS Joomla 1.6. Requires previous installation of Python. Component parameters are entered on the command line.
